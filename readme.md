@@ -1,3 +1,5 @@
+![streamlit-marquee.gif](https://s2.loli.net/2022/10/09/Pxe3rL5CKoXJOMp.gif)
+
 # what is it
 
 a marquee component for streamlit
@@ -22,9 +24,9 @@ then, there are two demos below.
 ##### demo 1 (recommend)
 
 ```python
-import streamlit_marquee as st_marquee
+from streamlit_marquee import streamlit_marquee
 
-st_marquee(**{
+streamlit_marquee(**{
     # the marquee container background color
     'background': "#ff0000",
     # the marquee text size
@@ -45,9 +47,9 @@ st_marquee(**{
 ##### demo 2
 
 ```python
-import streamlit_marquee as st_marquee
+from streamlit_marquee import streamlit_marquee
 
-st_marquee(content='here is custom marquee component~')
+streamlit_marquee(content='here is custom marquee component~')
 ```
 
 # how it realizes
