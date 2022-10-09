@@ -1,4 +1,3 @@
-#[streamlit-marquee](https://github.com/inspurer/streamlit-marquee)
 # what is it
 
 a marquee component for streamlit
@@ -69,3 +68,4 @@ as an alternative, use css animation to realize.
 * animationDuration
 
 you can also download the source code and change to support more attributes such as transition-timing-function.
+any question, please open [issues](https://github.com/inspurer/streamlit-marquee/issues).

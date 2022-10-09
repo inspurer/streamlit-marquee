@@ -8,7 +8,7 @@ import setuptools
 
 setuptools.setup(
     name="streamlit_marquee",
-    version="0.0.5",
+    version="0.0.7",
     author="buyixiao",
     author_email="2391527690xt@gmail.com",
     keywords=["marquee", "streamlit", "component"],
