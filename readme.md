@@ -30,7 +30,7 @@ streamlit_marquee(**{
     # the marquee container background color
     'background': "#ff0000",
     # the marquee text size
-    'font-size': '12px',
+    'fontSize': '12px',
     # the marquee text color
     "color": "#ffffff",
     # the marquee text content
